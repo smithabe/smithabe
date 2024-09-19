@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abi!
-- 
+👋 Hi, I’m Abi!
+
 Welcome to my GitHub profile!
 
 I'm a passionate 3rd year computer science student with a love for technology, coding, and continuous learning. I enjoy solving problems and exploring new ideas  :)
